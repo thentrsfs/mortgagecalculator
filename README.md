@@ -19,7 +19,7 @@ A simple mortgage calculator built with Vue 3 using the Composition API and Quas
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/mortgage-calculator.git
+git clone https://github.com/thentrsfs/mortgagecalculator.git
 cd mortgage-calculator
 
 2. In terminal type 'npm install'
