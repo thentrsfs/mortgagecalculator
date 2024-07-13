@@ -24,6 +24,4 @@ cd mortgage-calculator
 
 2. In terminal type 'npm install'
 
-3. Then install Quasar CLI, type 'npm i -g @quasar/cli'
-
-4. Type 'quasar dev' to start development server.
+3. Type 'quasar dev' to start development server.
